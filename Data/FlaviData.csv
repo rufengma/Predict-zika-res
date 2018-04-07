@@ -1,0 +1,26 @@
+virus,code,disease,africa,middleEast,australia,pacific,asia,europe,northAmeria,southAmerica,otherArthropod,mutatedEnvelope,hostBreadth,human,primate,rodent,otherMammal,bird,humanDisease,diseaseSeverity
+Dengue type 1,DENV1,Dengue,1,1,1,1,1,1,1,1,0,,2,1,1,,,,Fever,5
+Dengue type 2,DENV2,Dengue,1,1,1,1,1,1,1,1,0,0,2,1,1,,,,Fever,5
+Dengue type 3,DENV3,Dengue,1,1,1,1,1,1,1,1,0,,2,1,1,,,,Fever,5
+Dengue type 4,DENV4,Dengue,1,0,1,1,1,1,1,1,0,,2,1,1,,,,Fever,5
+Kedougou virus,KEDV,Dengue,1,0,0,0,0,0,0,0,0,0,1,1,,,,,None,
+Alfuy virus,ALFV,Japanese.encephalitis,0,0,1,0,0,0,0,0,0,,1,0,,,,1,None,0
+Japanese encephalitis virus,JEV,Japanese.encephalitis,0,0,0,1,1,0,0,0,0,,3,1,,,1,1,Encephalitis,7
+Kunjin,KUNV,West.Nile.fever,0,0,1,0,1,0,0,0,0,,2,1,,,,1,Fever,4
+St. Louis encephalitis virus,SLEV,St..Louis.encephalitis,0,0,0,0,0,0,1,1,0,,2,1,,,,1,Encephalitis,6
+Usutu virus,USUV,West.Nile.fever,1,0,0,0,0,1,0,0,0,,1,0,,,,1,Nine,0
+West Nile virus,WNV,West.Nile.fever,1,1,1,1,1,1,1,1,1,,2,1,,,,1,Encephalitis,4
+Yaounde virus,YAOV,Japanese.encephalitis,1,0,0,0,0,0,0,0,0,,2,0,,1,,1,None,0
+Bagaza virus,BAGV,West.Nile.fever,1,0,0,0,0,0,0,0,0,,1,0,,,,1,None,0
+Israel turkey meningoencephalomyelitis virus,ITV,West.Nile.fever,1,1,0,0,0,0,0,0,1,,1,0,,,,1,None,0
+Ntaya virus,NTAV,West.Nile.fever,1,0,0,0,0,0,0,0,0,,0,0,,,,,None,0
+Zika virus,ZIKV,Zika,1,0,0,1,1,0,0,1,0,0,2,1,1,,,,Fever,3
+Banzi virus,BANV,Yellow.fever,1,0,0,0,0,0,0,0,0,1,3,1,,1,1,,Fever,2
+Bouboui virus,BOUV,Yellow.fever,1,0,0,0,0,0,0,0,0,1,2,0,1,,1,,None,0
+Edge Hill virus,EHV,Yellow.fever,0,0,1,0,0,0,0,0,0,1,2,1,,,,,Fever,1
+Jugra virus,JUGV,Yellow.fever,0,0,0,0,1,0,0,0,0,1,0,0,,,,,None,0
+Saboya virus,SABV,Yellow.fever,1,0,0,0,0,0,0,0,1,1,1,0,,1,,,None,0
+Sepik virus,SEPV,Yellow.fever,0,0,1,0,0,0,0,0,0,0,1,1,,,,,Fever,1
+Uganda S virus,UGSV,Yellow.fever,1,0,0,0,0,0,0,0,0,1,2,0,1,,,1,None,0
+Wesselsbron virus,WESSV,Yellow.fever,1,0,0,0,1,0,0,0,1,0,2,1,,,1,,Fever,3
+Yellow fever virus,YFV,Yellow.fever,1,0,0,0,0,0,0,1,0,,2,1,1,,,,Fever,7

@@ -1,0 +1,175 @@
+mosquitoSpecies,subgenus,group,humanBiter,hostBreadth,primates,nonPrimateMammals,birds,coldBloodedVertebrates,geographicRange,africa,middleEast,australia,pacific,asia,europe,northAmerica,southAmerica,biteDawn,biteDay,biteDusk,biteNight,containerBreeder,larvalHabitat,permanentHabitat,urbanAreas,indoors
+Aedeomyia africana,none,,1,3,1,1,1,,20,1,0,0,0,0,0,0,0,0,0,0,1,0,Pond,1,1,0
+Aedeomyia catasticta,none,,1,1,,,1,,19,0,0,1,1,1,0,0,0,0,0,0,1,0,Pond,1,0,0
+Aedes abnormalis,Aedimorphus,,,0,,,,,6,1,0,0,0,0,0,0,0,,,,,,,,0,0
+Aedes aegypti,Stegomyia,aegypti,1,1,1,,,,154,1,1,1,1,1,1,1,1,1,1,1,1,1,Container,0,1,1
+Aedes africanus,Stegomyia,africanus,1,0,,,,,24,1,0,0,0,0,0,0,0,0,0,1,0,1,Treehole,0,0,1
+Aedes albopictus,Stegomyia,scutellaris,1,2,,1,1,,116,1,1,0,1,1,1,1,1,1,1,1,0,1,Non-Discriminate,0,1,1
+Aedes argenteopunctatus,Catageiomyia,,0,0,,,,,17,1,0,0,0,0,0,0,0,,,,,0,Pond,1,0,0
+Aedes bancroftianus,Pseudoskusea,,1,0,,,,,1,0,0,1,0,0,0,0,0,,,,,0,Ground Pool,0,0,0
+Aedes bromeliae,Stegomyia,Simpsoni,1,1,1,,,,23,1,0,0,0,0,0,0,0,,,,,1,Treehole,0,0,0
+Aedes caballus,Ochlerotatus,Juppius,1,1,,1,,,10,1,1,0,0,0,0,0,0,0,1,1,0,0,Swamp,0,0,0
+Aedes cantans,Ochlerotatus,,1,1,,1,,,34,0,0,0,0,1,1,1,0,1,0,1,0,0,Ground Pool,0,0,0
+Aedes chemulpoensis,Stegomyia,Pseudonigeria,,0,,,,,2,0,0,0,0,1,0,0,0,,,,,0,Treehole,0,0,0
+Aedes cinereus,Aedes,,,2,,1,1,,34,0,0,0,0,0,1,1,0,0,0,1,0,0,Ground Pool,0,0,0
+Aedes circumluteolus,Neomelaniconion,,1,2,,1,1,,27,1,0,0,0,0,0,0,0,,,,,0,Pond,1,0,0
+Aedes cumminsii,Aedimorphus,,1,0,,,,,21,1,0,0,0,0,0,0,0,0,1,0,1,0,Ground Pool,0,0,0
+Aedes curtipes,Cancraedes,,1,0,,,,,4,0,0,0,1,1,0,0,0,0,1,0,0,0,Rice Paddy,1,0,0
+Aedes dalzieli,Aedimorphus,,1,2,,1,1,,10,1,0,0,0,0,0,0,0,,,1,,0,Ground Pool,0,0,0
+Aedes domesticus,Aedimorphus,,1,0,,,,,15,1,0,0,0,0,0,0,0,0,1,0,1,0,Ground Pool,0,0,0
+Aedes dorsalis,Ochlerotatus,,1,2,,1,1,,44,0,1,0,0,1,1,1,0,1,0,1,1,0,Marsh,1,0,0
+Aedes flavicollis,Diceromyia,,,1,1,,,,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Treehole,0,0,0
+Aedes fluviatilis,Georgecraigius,Horsfallius,1,0,,,,,18,0,0,0,0,0,0,0,1,,1,,1,1,Treehole,0,1,0
+Aedes fowleri,Aedimorphus,,,0,,,,,23,1,0,0,0,0,0,0,0,,,,,,,,0,0
+Aedes furcifer,Diceromyia,,1,1,1,,,,15,1,0,0,0,0,0,0,0,,0,,1,0,Treehole,0,0,0
+Aedes grahami,Mucidus,,,0,,,,,10,1,0,0,0,0,0,0,0,,,,,0,Swamp,1,0,0
+Aedes hensilli,Stegomyia,Scuttellaris,1,0,,,,,3,0,0,0,1,0,0,0,0,0,1,0,0,1,Treehole,0,1,0
+Aedes ingrami,Hopkinsius,,1,0,,,,,12,1,0,0,0,0,0,0,0,0,0,1,0,0,Treehole,0,0,0
+Aedes jamoti,Neomelaniconion,,,0,,,,,8,1,0,0,0,0,0,0,0,,,,,0,Pond,1,0,0
+Aedes juppi,Ochlerotatus,,1,1,,,1,,2,1,0,0,0,0,0,0,0,,1,1,,0,Ground Pool,0,0,0
+Aedes koreicus,Hulecoeteomyia,,1,0,,,,,1,0,0,0,0,1,0,0,0,,,,,1,Treehole,0,0,0
+Aedes lineatopennis,Neomelaniconion,,1,0,,,,,29,1,0,1,1,1,0,0,0,0,0,1,0,0,Ground Pool,0,0,0
+Aedes longipalpis,Zavortinkius,,1,1,1,,,,12,1,0,0,0,0,0,0,0,0,1,0,0,1,Treehole,0,0,0
+Aedes luteocephalus,Stegomyia,Africanus,1,3,1,1,1,,18,1,0,0,0,0,0,0,0,0,0,1,0,0,Treehole,0,0,0
+Aedes mcintoshi,Neomelaniconion,,1,1,,1,,,15,1,0,1,0,0,0,0,0,,,,,0,Ground Pool,1,0,0
+Aedes melanimon,Ochlerotatus,,0,1,,1,,,2,0,0,0,0,0,0,1,0,0,1,0,0,0,Pond,1,0,0
+Aedes mediolineatus,Aedimorphus,,,0,,,,,7,0,0,0,0,1,0,0,0,,,,,0,Ground Pool,0,0,0
+Aedes metallicus,Stegomyia,Metallicus,1,0,,,,,14,1,0,0,0,0,0,0,0,0,0,1,1,0,Treehole,0,0,0
+Aedes minutus,Catageiomyia,,,0,,,,,22,1,0,0,0,0,0,0,0,,,,,0,Treehole,0,0,0
+Aedes natronius,Aedimorphus,,,0,,,,,7,1,0,0,0,0,0,0,0,,,,,0,Ground Pool,0,0,0
+Aedes neoafricanus,Stegomyia,Africanus,1,0,,,,,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Treehole,0,0,0
+Aedes normanensis,Ochlerotatus,,1,0,,,,,3,0,0,1,0,0,0,0,0,0,1,0,0,0,Ground Pool,0,0,0
+Aedes notoscriptus,Ochlerotatus,Rampamyia,1,1,,1,,,7,0,0,1,1,0,0,0,0,0,0,0,1,1,Treehole,0,1,0
+Aedes occidentalis,Dobrotworskyius,,1,0,,,,,1,0,0,1,0,0,0,0,0,0,1,1,1,0,Rockhole,0,0,0
+Aedes ochraceus,Aedimorphus,,1,1,,1,,,11,1,0,0,0,0,0,0,0,0,0,1,1,0,Ground Pool,0,0,0
+Aedes opok,Stegomyia,Africanus,1,1,1,,,,6,1,0,0,0,0,0,0,0,0,0,1,1,,,,0,0
+Aedes polynesiensis,Stegomyia,Scutellaris,1,1,,1,,,14,0,0,1,1,0,0,0,0,0,1,0,0,1,Treehole,0,1,1
+Aedes procax,Ochlerotatus,,1,1,,1,,,1,0,0,1,0,0,0,0,0,,,,,0,Marsh,0,0,0
+Aedes scapularis,Ochlerotatus,Scapularis,1,1,,1,,,29,0,0,0,0,0,0,1,1,1,1,1,1,1,Ground Pool,0,1,0
+Aedes scutellaris,Stegomyia,Scutellaris,1,0,,,,,14,0,0,1,1,0,0,0,0,1,0,1,0,1,Container,0,1,0
+Aedes serratus,Ochlerotatus,serratus,1,1,,1,,,26,0,0,0,0,0,0,1,1,0,1,1,0,0,Ground Pool,0,0,0
+Aedes simulans,Elpeytonius,,1,0,,,,,11,1,0,0,0,0,0,0,0,0,1,0,0,0,Treehole,0,0,0
+Aedes stokesi,Albuginosus,,1,0,,,,,13,1,0,0,0,0,0,0,0,0,1,0,1,1,Treehole,0,0,0
+Aedes tarsalis,Catageiomyia,,1,0,,,,,18,1,0,0,0,0,0,0,0,0,1,0,0,,,,0,0
+Aedes taeniarostris,Neomelaniconion,,1,3,,1,1,1,7,1,0,0,0,0,0,0,0,1,0,1,0,0,Marsh,1,1,0
+Aedes taylori,Diceromyia,,1,1,1,,,,11,1,0,0,0,0,0,0,0,,,,,0,Treehole,0,0,0
+Aedes togoi,Tanakaius,,1,0,,,,,11,0,0,0,0,1,0,1,0,0,0,0,1,0,Rockhole,0,0,1
+Aedes vexans,Aedimorphus,,1,1,,1,,,83,1,1,1,1,1,1,1,0,0,0,0,1,0,Ground Pool,0,0,0
+Aedes vigilax,Ochlerotatus,,1,1,,1,,,17,0,0,1,1,1,0,0,0,1,1,1,1,0,Rockhole,0,0,0
+Aedes vittatus,Fredwardsius,,1,0,,,,,53,1,1,0,0,1,1,0,0,0,0,0,1,0,Rockhole,0,0,0
+Anopheles amictus,Cellia,,,0,,,,,2,0,0,1,0,1,0,0,0,,,,,0,Marsh,1,0,0
+Anopheles barbirostris,Anopheles,Barbirostris,0,1,,1,,,16,0,0,0,0,1,0,0,0,0,0,1,1,0,Pond,1,0,0
+Anopheles coustani,Anopheles,Coustani,1,1,,1,,,49,1,1,0,0,0,0,0,0,0,0,0,1,0,Ground Pool,0,0,0
+Anopheles crucians,Anopheles,Punctipennis,1,0,,,,,14,0,0,0,0,0,0,1,0,0,0,0,1,0,Pond,1,1,0
+Anopheles domicola,Cellia,,,0,,,,,11,1,0,0,0,0,0,0,0,,,,,,,,0,0
+Anopheles funestus,Cellia,Funestus,1,1,,1,,,44,1,0,0,0,0,0,0,0,0,0,0,1,0,Pond,1,0,1
+Anopheles gambiae,Cellia,,1,0,,,,,52,1,0,0,0,0,0,0,0,1,0,0,1,0,Ground Pool,0,1,1
+Anopheles hyrcanus,Anopheles,Hyrcanus,1,0,,,,,39,0,1,0,0,1,1,0,0,0,0,1,0,0,Rice Paddy,1,0,0
+Anopheles maculipennis,Anopheles,Maculipennis,1,1,,1,,,47,0,1,0,0,1,1,0,0,0,0,0,1,0,Pond,1,0,0
+Anopheles meraukensis,Cellia,,0,1,,1,,,2,0,0,1,0,0,0,0,0,,,,,0,Ground Pool,1,0,0
+Anopheles paludis,Anopheles,Coustani,1,0,,,,,26,1,0,0,0,0,0,0,0,0,0,1,0,,,,0,0
+Anopheles pharoensis,Cellia,,1,1,,1,,,40,1,1,0,0,0,0,0,0,0,0,0,1,0,Swamp,1,0,1
+Anopheles philippinensis,Cellia,Annularis,0,1,,1,,,12,0,0,0,0,1,0,0,0,0,0,0,1,0,Rice Paddy,1,0,0
+Anopheles punctipennis,Anopheles,Punctipennis,0,2,,1,1,,6,0,0,0,0,0,0,1,1,0,0,1,0,1,Ground Pool,0,0,0
+Anopheles pretoriensis,Cellia,,0,0,,,,,31,1,1,0,0,0,0,0,0,,,,,0,Pond,1,0,0
+Anopheles quadrimaculatus,Anopheles,Maculipennis,1,1,,1,,,6,0,0,0,0,0,0,1,1,0,0,0,1,0,Pond,1,0,0
+Anopheles subpictus,Cellia,,0,1,,1,,,23,0,1,0,1,1,0,0,0,0,0,1,1,0,Marsh,1,0,1
+Anopheles tessalatus,Cellia,Tessellatus,0,0,,,,,18,0,0,0,1,1,0,0,0,0,0,1,0,0,Rice Paddy,1,0,0
+Armigeres obturbans,Armigeres,,1,0,,,,,10,0,0,0,0,1,0,0,0,0,1,0,0,1,Treehole,0,0,0
+Aedes alternans,Mucidus,,1,1,,1,,,6,0,0,1,1,0,0,0,0,,1,,1,0,Marsh,1,0,0
+Coquillettidia aurites,Coquillettidia,,0,1,,,1,,15,1,0,0,0,0,0,0,0,1,0,1,0,0,Swamp,1,0,0
+Coquillettidia linealis,Coquillettidia,,1,1,,1,,,3,0,0,1,0,0,0,0,0,1,0,1,1,,,,0,0
+Coquillettidia perturbans,Coquillettidia,,,0,,,,,5,0,0,0,0,0,0,1,0,0,0,1,0,0,Swamp,1,0,0
+Coquillettidia metallica,Coquillettidia,,0,1,,,1,,19,1,0,0,0,0,0,0,0,1,0,1,0,,,,0,0
+Coquillettidia richiardii,Coquillettidia,,,3,,1,1,1,42,0,1,0,0,0,1,0,0,,,,,,,,0,0
+Coquillettidia venezuelensis,Rhynchotaenia,,1,0,,,,,21,0,0,0,0,0,0,1,1,0,0,0,1,0,Swamp,1,0,0
+Culex adamesi,Melanoconion,,,0,,,,,6,0,0,0,0,0,0,0,1,,,,,,,,0,0
+Culex annulirostris,Culex,,1,2,,1,1,,20,0,0,1,1,0,0,0,0,1,0,1,0,1,Ground Pool,0,0,0
+Culex antennatus,Culex,,1,1,,1,,,24,1,1,0,0,0,0,0,0,,,,,0,Rice Paddy,1,0,0
+Culex australicus,Culex,,0,2,,1,1,,3,0,0,1,1,0,0,0,0,,,,,0,Pond,1,0,0
+Culex bahamensis,Culex,,,0,,,,,15,0,0,0,0,0,0,1,1,,,,,1,Container,0,0,0
+Culex bitaeniorhynchus,Oculeomyia,,1,0,,,,,56,1,1,1,1,1,0,0,0,,,,,0,Pond,1,0,0
+Culex caudelli,Melanoconion,,,0,,,,,9,0,0,0,0,0,0,0,1,0,0,0,1,0,Ground Pool,1,0,0
+Culex coronator,Culex,,1,1,,1,,,25,0,0,0,0,0,0,1,1,0,0,0,1,1,Treehole,0,0,0
+Culex crybda,Melanoconion,,,0,,,,,11,0,0,0,0,0,0,0,1,0,0,0,1,,,,0,0
+Culex epidesmus,Oculeomyia,,0,1,,1,,,3,0,0,0,0,1,0,0,0,0,0,1,0,0,Ground Pool,0,0,0
+Culex duttoni,Culex,,,0,,,,,25,1,1,0,0,0,0,0,0,,,,,0,Ground Pool,0,0,0
+Culex fatigans,Culex,,1,1,,1,,,127,1,1,1,1,1,1,1,1,0,0,0,1,1,Container,0,1,0
+Culex fuscocephala,Culex,,0,1,,1,,,19,0,0,0,1,1,0,0,0,1,0,1,1,0,Rice Paddy,1,0,1
+Culex gelidus,Culex,,1,2,,1,1,,20,0,0,1,0,1,0,0,0,0,0,0,1,0,Ground Pool,0,0,0
+Culex guiarti,Culex,,,0,,,,,20,1,0,0,0,0,0,0,0,,,,,0,Marsh,0,0,0
+Culex modestus,Barraudius,,0,2,,1,1,,37,0,1,0,0,1,1,0,0,0,0,1,0,0,Swamp,1,0,0
+Culex nakuruensis,Culex,,,0,,,,,1,1,0,0,0,0,0,0,0,,,,,0,Pond,1,0,0
+Culex neavei,Culex,,,2,,1,1,,16,1,0,0,0,0,0,0,0,0,0,0,1,0,Treehole,0,0,0
+Culex nebulosus,Culiciomyia,,,1,,,1,,27,1,0,0,0,0,0,0,0,1,0,1,0,1,Treehole,0,0,0
+Culex nigripalpus,Culex,,1,3,,1,1,1,40,0,0,0,0,0,0,1,1,1,0,1,0,0,Ground Pool,0,1,0
+Culex p. molestus,Culex,pipiens,1,1,,1,,,,1,1,1,1,1,1,1,1,0,0,1,1,1,Ground Pool,0,1,1
+Culex perexiguus,Culex,,0,2,,1,1,,21,1,1,0,0,0,1,0,0,,,,,0,Ground Pool,0,1,0
+Culex perfuscus,Culex,,0,0,,,,,22,1,0,0,0,0,0,0,0,,,,,0,Pond,1,0,1
+Culex pipiens,Culex,pipiens,1,1,,,1,,94,1,1,1,1,1,1,1,1,0,0,0,1,1,Container,0,1,1
+Culex poicilipes,Oculeomyia,,0,1,,1,,,16,1,0,0,0,0,0,0,0,0,0,0,1,0,Ground Pool,0,0,0
+Culex pruina,Culex,,,0,,,,,11,1,0,0,0,0,0,0,0,,,,,,,,0,0
+Culex pseudovishnui,Culex,,0,1,,1,,,23,0,1,0,0,1,0,0,0,0,0,1,0,0,Ground Pool,0,0,1
+Culex pullus,Culiciomyia,,0,1,,,1,,9,0,0,1,1,1,0,1,0,,,,,1,Ground Pool,0,0,0
+Culex quinquefasciatus,Culex,pipiens,1,2,,1,1,,126,1,1,1,1,1,0,1,1,0,0,0,1,1,Ground Pool,0,1,1
+Culex restuans,Culex,,0,1,,,1,,5,0,0,0,0,0,0,1,0,0,0,1,1,1,Ground Pool,0,1,0
+Culex rubinotus,Eumelanomyia,,0,1,,1,,,21,1,0,0,0,0,0,0,0,,,,,0,Pond,1,0,0
+Culex salinarius,Culex,,0,1,,1,,,4,0,0,0,0,0,0,1,0,0,0,1,1,0,Marsh,1,0,0
+Culex sitiens,Culex,,,0,,,,,58,1,1,1,1,1,0,0,0,0,0,0,1,1,Marsh,0,0,0
+Culex spissipes,Melanoconion,Spissipes,,0,,,,,17,0,0,0,0,0,0,0,1,0,0,1,0,0,Ground Pool,1,0,0
+Culex squamosus,Oculeomyia,,0,1,,,1,,4,0,0,1,1,0,0,0,0,,,,,0,Ground Pool,1,0,0
+Culex taeniopus,Melanoconion,,,1,,1,,,24,0,0,0,0,0,0,0,1,0,0,1,0,1,Container,0,0,0
+Culex tarsalis,Culex,,,2,,1,1,,3,0,0,0,0,0,0,1,0,0,0,1,1,1,Ground Pool,0,0,1
+Culex telesilla,Culex,,,0,,,,,7,1,0,0,0,0,0,0,0,,,,,0,Marsh,1,0,0
+Culex thalassius,Culex,,,4,1,1,1,1,22,1,0,0,0,0,0,0,0,0,0,1,0,0,Marsh,1,0,1
+Culex theileri,Culex,,,2,,1,1,,51,1,1,0,0,1,1,0,0,0,0,0,1,0,Marsh,0,0,0
+Culex tritaeniorhynchus,Culex,,0,1,,1,,,62,1,1,0,1,1,0,0,0,1,0,1,0,0,Ground Pool,0,0,0
+Culex univittatus,Culex,,1,2,,1,1,,49,1,1,0,0,1,0,0,0,1,0,1,0,0,Ground Pool,0,0,0
+Culex virgultus,Bomina Dubia 3,,,0,,,,,1,0,0,0,0,0,0,0,1,,,,,,,,0,0
+Culex vishnui,Culex,,0,1,,1,,,21,0,0,0,0,1,0,0,0,0,0,0,1,0,Rice Paddy,1,0,0
+Culex vomerifer,Melanoconion,,1,1,,1,,,8,0,0,0,0,0,0,0,1,1,0,1,0,0,Ground Pool,0,0,1
+Culex weschei,Culex,,0,1,,,1,,13,1,0,0,0,0,0,0,0,,,,,0,Pond,1,0,0
+Culex whitmorei,Culex,,,1,,1,,,18,0,0,1,1,1,0,0,0,0,0,1,0,0,Ground Pool,0,0,0
+Culex zombaensis,Culex,,0,0,,,,,11,1,0,0,0,0,0,0,0,,,,,0,Ground Pool,0,0,0
+Culiseta alaskaensis,Culiseta,,1,0,,,,,25,0,1,0,0,0,1,1,0,0,1,0,1,0,Pond,1,0,0
+Culiseta impatiens,Culiseta,,0,1,,1,,,2,0,0,0,0,0,0,1,0,0,0,1,0,0,Pond,1,0,0
+Culiseta inorata,Culiseta,,0,1,,1,,,2,0,0,0,0,0,0,1,0,,,,,0,Marsh,1,0,0
+Culiseta melanura,Climacura,,0,1,,,1,,2,0,0,0,0,0,0,1,0,0,0,1,1,0,Crypt,0,0,0
+Deinocerites pseudes,none,,1,3,,1,1,1,11,0,0,0,0,0,0,1,1,0,0,0,1,0,Rockhole,0,0,0
+Eretmapodites chrysogaster,none,,1,1,1,,,,20,1,0,0,0,0,0,0,0,0,1,0,0,0,Treehole,0,0,0
+Eretmapodites inornatus,none,,1,0,,,,,8,1,0,0,0,0,0,0,0,0,0,1,0,0,Treehole,0,0,0
+Eretmapodites oedipodeios,none,,,0,,,,,13,1,0,0,0,0,0,0,0,,,,,0,Container,0,0,0
+Eretmapodites quinquevittatus,none,,1,0,,,,,16,1,0,0,0,0,0,0,0,,,,,0,Container,0,1,0
+Eretmapodites silvestris,none,,1,0,,,,,6,1,0,0,0,0,0,0,0,0,1,0,0,0,Contaier,0,0,0
+Ficalbia flavens,Mimomyia,Mimomyia,,0,,,,,1,0,0,0,1,0,0,0,0,,,,,,,,0,0
+Haemagogus anastasionis,Haemagogus,,1,1,1,,,,9,0,0,0,0,0,0,0,1,0,1,0,0,1,Treehole,0,1,0
+Haemagogus celeste,Haemagogus,,,1,1,,,,4,0,0,0,0,0,0,0,1,0,1,0,0,1,Rockhole,0,1,0
+Haemagogus equinus,Haemagogus,,1,2,1,1,,,14,0,0,0,0,0,0,1,1,0,1,0,0,1,Rockhole,0,0,0
+Haemagogus janthinomys,Haemagogus,,0,3,1,1,1,,16,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Haemagogus leucocelaenus,Conopostegus,,,2,,1,1,,13,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Haemagogus spegazzinii,Haemagogus,,0,1,1,,,,9,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Mansonia septempunctata,Mansonioides,,1,0,,,,,3,0,0,1,1,0,0,0,0,1,0,1,1,0,Pond,1,0,0
+Mansonia titillans,Mansonia,,1,1,,,,1,30,0,0,0,0,0,0,1,1,0,0,1,0,0,Pond,1,0,0
+Mansonia uniformis,Mansonioides,,1,1,,1,,,48,1,0,1,1,1,0,0,0,0,0,1,0,0,Swamp,1,0,0
+Mansonia africana,Mansonioides,,1,1,,1,,,24,1,0,0,0,0,0,0,0,0,0,0,1,0,Pond,1,0,0
+Mimomyia hispida,Mimomyia,,0,2,,1,,1,19,1,0,0,0,0,0,0,0,,,,,0,Ground Pool,1,0,0
+Mimomyia lacustris,Mimomyia,,,0,,,,,15,1,0,0,0,0,0,0,0,,,,,0,Ground Pool,1,0,0
+Mimomyia splendens,Mimomyia,,1,0,,,,,18,1,0,0,0,0,0,0,0,,,,,0,Ground Pool,1,1,0
+Aedes canadensis,Ochlerotatus,,1,2,,1,1,,4,0,0,0,0,0,0,1,0,0,1,0,0,0,Ground Pool,0,0,0
+Aedes cantator,Ochlerotatus,,1,3,,1,1,1,2,0,0,0,0,0,0,1,0,0,0,0,1,0,Marsh,1,0,0
+Aedes japonicus,Hulecoeteomyia,,1,2,,1,1,,10,0,0,0,0,1,1,1,0,1,1,1,0,1,Rockhole,0,0,0
+Aedes sollicitans,Ochlerotatus,,1,2,,1,1,,11,0,0,0,0,0,0,1,1,1,0,1,0,0,Marsh,0,0,0
+Aedes tremulus,Macleaya,,1,1,,1,,,3,0,0,1,0,0,0,0,0,1,0,0,0,1,Container,0,1,1
+Aedes trivittatus,Ochlerotatus,,1,2,,1,1,,3,0,0,0,0,0,0,1,0,0,1,1,0,0,Ground Pool,0,0,0
+Orthopodomyia signifera,none,,,1,,,1,,8,0,0,0,0,0,0,1,1,0,0,0,1,1,Treehole,0,1,0
+Psorophora albipes,Janthinosoma,,,1,,,1,,18,0,0,0,0,0,0,0,1,0,1,0,0,0,Ground Pool,1,0,0
+Psorophora columbiae,Grabhamia,,,1,,1,,,7,0,0,0,0,0,0,1,1,0,1,0,0,0,Rice Paddy,1,0,0
+Psorophorra ferox,Janthinosoma,,1,2,,1,1,,31,0,0,0,0,0,0,1,1,0,1,0,0,0,Ground Pool,0,0,0
+Runchomyia frontosa,Runchomyia,,,0,,,,,6,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Sabethes albiprivus,Sabethes,,1,0,,,,,8,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Sabethes belisarioi,Sabethes,,,0,,,,,11,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Sabethes chloropterus,Sabethoides,,,1,1,,,,17,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Sabethes soperi,Peytonulus,,,0,,,,,3,0,0,0,0,0,0,0,1,0,1,0,0,0,Treehole,0,0,0
+Uranotaenia mashonaensis,Pseudoficalbia,,1,2,,1,1,,28,1,1,0,0,0,0,0,0,,,,,0,Non-Discriminate,0,0,0
+Uranotaenia sapphirina,Uranotaenia,,0,1,,,,1,8,0,0,0,0,0,0,1,1,,,,,0,Pond,1,0,0
+Uranotaenia unguiculata,Psedoficalbia,,,,,,,,37,0,1,0,0,1,1,0,0,,,,,,,,,
