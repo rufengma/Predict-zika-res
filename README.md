@@ -5,4 +5,4 @@ Contains codes, data files and relevant outputs for the paper "Predicting primat
 ### Owner
 Subho Majumdar
 
-<smajumdar@ufl.edu>
+<zoom.subha@gmail.com>
