@@ -9,8 +9,9 @@ This folder contains output files used in other code files in the 'Code' and 'Va
 	> mosq scores: 10-fold cv scores in the mosquito model.
 	> FlaviData: covariate data for all flaviviruses
 	> mosquito: covariate data for all mosquito species
-	> risk scores_mid_NoHuPopDen: Zika risk scores in the primate model.
-	> risk scores_10fold_mid_NoHuPopDen: 10-fold Zika risk scores in the primate model.
+	> risk scores_mid_NoHuPopDen_new: Zika risk scores in the primate model.
+	> risk scores_10fold_mid_NoHuPopDen_new: 10-fold Zika risk scores in the primate model.
+	(old versions without '_new')
 
 > RDA files
 	> all_models_mosq: all trained mosquito models.
